@@ -1,0 +1,40 @@
+.productPics {
+    width: 230px;
+    height: 190px;
+} 
+/* Table img styling */
+  #members_table {
+	top: 600px;
+    left: 150px;  
+    position: absolute;  
+} /*div for table */
+.productColumn {
+    padding-top: 50px;
+    padding-right: 150px; 
+    padding-left: -20px; 
+    padding-bottom: 30px; 
+ }
+    /*Column inside table styling*/
+ .text-center {
+    position: absolute; 
+	top: 10px;
+    left: 470px; 
+} 
+/* table heading styling */
+ .members_image_table {
+	text-align: center; 
+} /*align text for text in image table*/
+
+.formContent {
+position: absolute;
+margin-left: 150px;
+bottom: -1250px;
+padding-bottom: 30px;
+
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    background: rgb(255, 248, 238);
+  }  /*Body margin 0, also set background here.*/

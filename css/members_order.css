@@ -1,0 +1,42 @@
+.nav_bar_index ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+        }
+        
+    body {
+    margin-top: 0;
+    margin-left: 0;
+    background: rgb(255, 248, 238);
+    } 
+    .nav_bar_index li a {
+    float: left;
+    color: rgb(250, 178, 131);
+    display: block;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+   }
+   .nav_bar_index a:hover {
+   background-color: rgb(216, 161, 125);
+   color: black;
+   } 
+
+    .footer {
+    position: fixed;
+    top: auto;
+    left: 0;
+    width: 100%;
+    background-color: #919191;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    }
+
+body {
+margin-top: 0;
+margin-left: 0;
+background: rgb(255, 248, 238);
+} 
